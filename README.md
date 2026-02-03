@@ -130,7 +130,7 @@ Para extrusores directos y primeras capas lentas, se recomienda:
 ```
 
 Estos valores reducen falsos positivos y mantienen una detección fiable.
-
+---
 🖨️ Compatibilidad con impresoras
 
 Funciona con:
@@ -150,7 +150,7 @@ Plugins
 Modificaciones de firmware
 
 Conexión por red a la impresora
-
+---
 📌 Estado del proyecto
 
 MVP funcional y probado
@@ -164,16 +164,10 @@ más impresoras
 lógica avanzada
 
 Proyecto en desarrollo activo
-
+---
 📄 Licencia
 
 Proyecto open-source.
 Uso libre para proyectos personales y educativos.
 
-🙌 Contribuciones
 
-Issues, sugerencias y mejoras son bienvenidas.
-Este proyecto nace de necesidades reales en impresión 3D.
-
-Anti-Clog / Runout Detector
-Detección real. Sin falsos positivos. Sin dependencias innecesarias.
